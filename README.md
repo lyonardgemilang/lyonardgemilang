@@ -6,12 +6,14 @@
 - 🤖 I’m currently working as AI Trainer
 - 🔥 I'm passionate about AI/ML and Data Science
 - 📫 How to reach me:
-  - <a href="https://www.linkedin.com/in/lyonard-gemilang">
+  <div display="inline-flex">
+    <a href="https://www.linkedin.com/in/lyonard-gemilang">
       <img src="https://skillicons.dev/icons?i=linkedin"/>
     </a>
-  - <a href="https://www.instagram.com/lyonardgemilang/">
+    <a href="https://www.instagram.com/lyonardgemilang/">
       <img src="https://skillicons.dev/icons?i=instagram"/>
     </a>
+  </div>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My birthday is the same as Indonesia's Independence Day!
 
