@@ -1,6 +1,5 @@
 ## Welcome to my profile!
 
-![me](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width=100%>
 <br>
 - 🔭 I’m currently studying at University of Brawijaya
