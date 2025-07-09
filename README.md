@@ -1,6 +1,6 @@
 ## Welcome to my profile!
 
-<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width=100%>
+![GIF Coding](https://images.app.goo.gl/XBvK71FRKdrNbYQu5)
 <br>
 - 🔭 I’m currently studying at University of Brawijaya
 - 🌱 I’m currently learning Data Science
