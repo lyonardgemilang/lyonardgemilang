@@ -7,16 +7,16 @@
 - 🔥 I'm passionate about AI/ML and Data Science
 - 📫 How to reach me:
   - <a href="https://www.linkedin.com/in/lyonard-gemilang">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img src="https://skillicons.dev/icons?i=linkedin"/>
     </a>
   - <a href="https://www.instagram.com/lyonardgemilang/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+      <img src="https://skillicons.dev/icons?i=instagram"/>
     </a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My birthday is the same as Indonesia's Independence Day!
 
 <h2 align="center">My Stats and Skills</h3>
-<div display="inline-flex" gap=10px>  
+<div display="inline-flex" gap=20px>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyonardgemilang&theme=default&show_icons=true&hide_border=true&layout=compact" alt="lyonardgemilang's GitHub Stats" />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,html,css,git,postgres" />
