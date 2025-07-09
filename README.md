@@ -15,8 +15,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My birthday is the same as Indonesia's Independence Day!
 
-<h3 align="center">My Stats and Skills</h3>
-<div display="inline-flex">  
+<h2 align="center">My Stats and Skills</h3>
+<div display="inline-flex" gap=10px>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyonardgemilang&theme=default&show_icons=true&hide_border=true&layout=compact" alt="lyonardgemilang's GitHub Stats" />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,html,css,git,postgres" />
