@@ -18,10 +18,9 @@
 - ⚡ Fun fact: My birthday is the same as Indonesia's Independence Day!
 
 <h2 align="center">My Stats and Skills</h3>
-<div display="inline-flex" gap=20px>  
+<div display="inline-flex" gap=10px align-items="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyonardgemilang&theme=default&show_icons=true&hide_border=true&layout=compact" alt="lyonardgemilang's GitHub Stats" />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,html,css,git,postgres" />
   </a>
-  <img src="https://img.shields.io/badge/Beautiful%20Soup-4B8BBE?style=for-the-badge&logo=&logoColor=white" alt="Beautiful Soup"/>
 </div>
